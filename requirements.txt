@@ -40,10 +40,6 @@ rich>=13.7.1
 # Vector store (optional)
 faiss-cpu>=1.8.0
 
-# Embeddings / transformers (optional local models)
-sentence-transformers>=3.0.1
-transformers>=4.44.0
-
 # Notebook support (optional)
 jupyter>=1.0.0
 ipykernel>=6.29.5
